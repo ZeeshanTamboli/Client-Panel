@@ -7,6 +7,8 @@ import store from './store';
 
 import './App.css';
 
+require('dotenv').config();
+
 class App extends Component {
   render() {
     return (
