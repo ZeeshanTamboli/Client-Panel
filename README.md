@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project is a React/Redux client management panel which uses Firebase for authentication and Firestore for storing data. It is deployed on firebase.
+Link to project - [React Client Panel](https://reactclientpanel-d5099.firebaseapp.com/)
+
 ## Available Scripts
 
 In the project directory, you can run:
